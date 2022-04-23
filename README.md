@@ -11,6 +11,8 @@ Estos archivos corresponden al bootcamp #7 de Penguin Academy, realizado desde e
 | --- | --- | --- |
 | #1 | **Introducción a Python** <br> Temas: variables; tipos de datos; operaciones aritméticas; concatenación; `input()`; funciones; alcance (funciones); introducción a condicionales.| [Día 1](https://github.com/penguin-academy/bootcamp-7/blob/main/dia1.ipynb) |
 | #2 | **Pensamiento Computacional** <br> Temas: continuación de condicionales; listas; bucles `for` y `while`. Review con el inicio del proyecto Wordle en Python: variables; tipos de datos; operaciones aritméticas; concatenación; `input()`; funciones; alcance (funciones); condicionales. | [Día 2](https://github.com/penguin-academy/bootcamp-7/blob/main/dia2.ipynb) |
+| #3 | **Hazlo Funcionar** <br> Temas: continuación y finalización del proyecto Wordle en Python. Variables; tipos de datos; concatenación; operadores lógicos; condicionales; funciones (parámetros y argumentos); funciones built-in; listas; bucles `for` y `while`. | [Día 3](https://github.com/penguin-academy/bootcamp-7/tree/main/dia3) |
+
 
 ## Licencia
 El contenido está licenciado bajo GNU General Public License v3.0.
