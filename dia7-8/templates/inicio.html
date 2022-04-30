@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="{{ url_for ('static', filename= 'estilos.css') }}"
+    />
+    <title>Stevencin</title>
+  </head>
+  <body>
+    <h1>Hola Stevencin!</h1>
+    <a href="{{ url_for ('contacto') }}"> Contacto </a>
+    <h2>Hola soy Steven</h2>
+    <h3>y estoy aca porque quiero inspirarles a creer que todo es posible</h3>
+
+    <img
+      src="{{ url_for ('static', filename= 'perrito.webp') }}"
+      width="400"
+      height="400"
+    />
+  </body>
+</html>
