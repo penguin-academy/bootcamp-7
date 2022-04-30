@@ -14,6 +14,9 @@ Estos archivos corresponden al bootcamp #7 de Penguin Academy, realizado desde e
 | #3 | **Hazlo Funcionar** <br> Temas: continuación y finalización del proyecto Wordle en Python. Variables; tipos de datos; concatenación; operadores lógicos; condicionales; funciones (parámetros y argumentos); funciones built-in; listas; bucles `for` y `while`. | [Día 3](https://github.com/penguin-academy/bootcamp-7/tree/main/dia3) |
 | #4 | **Workshop: IoT** <br> Temas: introducción a componentes electrónicos y unidades de medida; Raspberry Pi; funcionamiento de un circuito eléctrico; encender y apagar LEDs; bucles con LEDs; condicionales con sensores y LEDs; Node para flujo de datos de manera visual. | [Día 4](https://github.com/penguin-academy/bootcamp-7/tree/main/dia4) |
 | #5 | **Objetos & Diccionarios** <br> Temas: conceptos de programación orientada a objetos (clases, objetos, atributos, métodos, herencia). Diccionarios.| [Día 5](https://github.com/penguin-academy/bootcamp-7/blob/main/dia5.ipynb) |
+| #6 | **Workshop: Robótica** <br> Temas: librerías, objetos, métodos. [RoDI](https://github.com/rodibot): movimiento del robot (ruedas), sensor de distancia, sensor de líneas, frecuencias de sonido. (Archivo `.py` de un equipo de participantes)| [Día 6](https://github.com/penguin-academy/bootcamp-7/blob/main/dia6.py) |
+| #7 | **Workshop: Web** <br> Temas: diccionarios, librerías `requests`, `pprint`, `json`, consultas a APIs externas. Desarrollo web: HTML, CSS, Flask. | [Día 7](https://github.com/penguin-academy/bootcamp-7/tree/main/dia7-8) |
+| #8 | **Control de Versiones & Aprendiendo a Aprender** <br> Temas: continuación del workshop sobre Web. Github: cuentas, repositorios, archivos. | [Día 8](https://github.com/penguin-academy/bootcamp-7/tree/main/dia7-8) |
 
 
 ## Licencia
